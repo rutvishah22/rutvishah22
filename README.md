@@ -1,9 +1,9 @@
 ## Hi, I am Rutvi Shah 👋.
 
- A web-developer, UI/UX Designer and a tech-enthusiast.
+ A python developer, and ML-enthusiast.
 
 # 💫 About Me:
-🔭 I’m currently learning python, Figma and UI/UX Design.<br>👯 I also have a good command of web development.<br>🤝 I have started to share my technical knowledge by writing articles on medium.<br>🌱 Connect with me: rutvi0422@gmail.com<br>💬 Ask me about design or any tech-related stuff.<br>
+🔭 I’m currently learning Python.<br>👯 I also love to do copywriting.<br>🌱 Connect with me: rutvi0422@gmail.com<br>💬 Ask me about content or any tech-related stuff.<br>
 
 
 ## 🌐 Socials:
