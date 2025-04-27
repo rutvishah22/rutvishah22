@@ -3,7 +3,10 @@
  A python developer, and ML-enthusiast.
 
 # 💫 About Me:
-🔭 I’m currently learning Python.<br>👯 I also love copywriting and marketing.<br>🌱 Connect with me: rutvi0422@gmail.com<br>💬 Ask me about content or any tech-related stuff.<br>
+🔭 I’m currently building projects with Python and Django.  
+👨‍💻 I have hands-on experience in web development (HTML, CSS, JavaScript, Bootstrap).  
+🌱 I’m continuously learning backend development and improving my full-stack skills.  
+📫 Connect with me: rutvi0422@gmail.com  
 
 
 ## 🌐 Socials:
