@@ -1,13 +1,6 @@
 ## Hi, I am Rutvi Shah 👋.
 
- A python developer, and ML-enthusiast.
-
-# 💫 About Me:
-🔭 I’m currently building projects with Python and Django.  
-👨‍💻 I have hands-on experience in web development (HTML, CSS, JavaScript, Bootstrap).  
-🌱 I’m continuously learning backend development and improving my full-stack skills.  
-📫 Connect with me: rutvi0422@gmail.com  
-
+An aspiring AI developer exploring the world of GenAI, ML, and intelligent applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/rutvishah22) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rutvishah2208/the-beginners-guide-to-ipfs-inter-planetary-file-system-1e32118e9e43) 
