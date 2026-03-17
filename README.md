@@ -1,9 +1,80 @@
-## Hi, I am Rutvi Shah 👋.
+# Hi, I'm Rutvi Shah 👋
 
-An aspiring AI developer exploring the world of GenAI, ML, and intelligent applications.
+AI Engineer focused on building production-ready LLM systems and intelligent applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/rutvishah22) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rutvishah2208/the-beginners-guide-to-ipfs-inter-planetary-file-system-1e32118e9e43) 
+I work on turning language models into reliable, real-world features — designing RAG pipelines, multi-step workflows, and backend systems that prioritize performance, accuracy, and usability.
+
+---
+
+## 💡 What I Do
+
+- Build LLM-powered applications and AI agents  
+- Design Retrieval-Augmented Generation (RAG) systems  
+- Improve reliability through evaluation and feedback loops  
+- Develop backend systems for AI-driven products  
+
+---
+
+## 🚀 Selected Work
+
+### 🔹 NovaTech AI – Low-Latency Voice RAG Support Agent  
+Built a real-time conversational AI system designed for production environments where latency and hallucinations are critical challenges.  
+Implemented a streaming voice pipeline using FastAPI, WebSockets, and Groq-accelerated Llama 3.3 to achieve sub-600ms response times.  
+Designed an intent-guided RAG architecture with ChromaDB and BAAI/bge-small embeddings to ground responses in policy documents and improve reliability.  
+Integrated browser-based speech recognition and synthesis with interruption handling for natural, real-time interactions.
+
+---
+
+### 🔹 Waypoint – AI Market Intelligence Platform  
+Developed a full-stack AI platform that automates competitor research for early-stage founders.  
+Built data pipelines that collect and process unstructured market data, transforming it into structured strategic insights using LLM workflows.  
+Enabled real-time competitive analysis through a React dashboard backed by FastAPI and PostgreSQL.
+
+---
+
+### 🔹 AI Document Query Assistant  
+Created a RAG-based system that allows teams to query large document collections instantly.  
+Implemented PDF ingestion, embedding generation, and contextual retrieval using FAISS, Chroma, and LangChain.  
+Reduced repetitive manual lookup by delivering accurate, source-grounded responses through LLM reasoning.
+
+---
+
+> More work available in pinned repositories ↓
+
+---
+
+## 🛠️ Tech Stack
+
+**GenAI & Agentic Systems**  
+LangChain · OpenAI · Claude · Gemini · Groq · Hugging Face · Prompt Engineering · RAG · FAISS · Chroma · Embeddings · Semantic Search  
+
+**Machine Learning**  
+PyTorch · TensorFlow · Scikit-learn · Pandas · NLP · Computer Vision  
+
+**Backend & APIs**  
+Python · FastAPI · REST APIs · SQLAlchemy · PostgreSQL · MongoDB · Uvicorn · WebSockets  
+
+**MLOps & Tooling**  
+Docker · CI/CD · Git · GitHub · Streamlit · React · ElevenLabs · Tavily  
+
+**Cloud**  
+AWS, Azure (working knowledge)
+
+---
+
+## 📚 Currently Exploring
+
+- LLM evaluation and benchmarking  
+- Agent reliability and observability  
+- Designing feedback loops for production AI systems  
+
+---
+
+## 🌐 Connect
+
+- LinkedIn: https://www.linkedin.com/in/rutvishah22  
+- GitHub: https://github.com/rutvishah22  
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
